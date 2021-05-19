@@ -1,0 +1,26 @@
+ [
+    {
+      "name": "社交娱乐SDK",
+      "key": "JbS1ZVeP",
+      "menu": [
+        {
+          "name": "API文档",
+          "key": "pK0PECGR",
+          "url": "/zh/web/live/api.md",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "实时音视频",
+      "key": "10j2m5Cn",
+      "menu": [
+        {
+          "name": "API文档",
+          "key": "T6SHQVzi",
+          "url": "/zh/web/live/api.md",
+          "type": "file"
+        }
+      ]
+    }
+]

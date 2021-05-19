@@ -1,0 +1,14 @@
+[
+  {
+    "name": "开发者平台",
+    "key": "lqVFtZdK",
+    "menu": [
+      {
+        "name": "使用手册",
+        "key": "R5tULcvV",
+        "url": "/zh/open/quick_start.md",
+        "type": "file"
+      }
+    ]
+  }
+]

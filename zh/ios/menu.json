@@ -1,0 +1,460 @@
+[
+  {
+    "name": "社交娱乐SDK",
+    "key": "JbS1ZVeP",
+    "menu": [
+      {
+        "name": "概述",
+        "key": "WqDlme0L",
+        "url": "/zh/ios/live/overview.md",
+        "type": "file"
+      },
+      {
+        "name": "下载SDK",
+        "key": "8ei0wr32",
+        "url": "/zh/ios/live/downloadsdk.md",
+        "type": "file"
+      },
+      {
+        "name": "快速开始",
+        "key": "gwXzFvln",
+        "menu": [
+          {
+            "name":"架构设计",
+            "key":"QoZ4JF0K",
+            "url": "/zh/ios/live/architecture.md",
+            "type": "file"
+          },
+          {
+            "name": "客户端集成",
+            "key": "hYrKLGDi",
+            "url": "/zh/ios/live/include.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端集成",
+            "key":"TvSUN6DQ",
+            "url": "/zh/ios/live/include_server.md",
+            "type": "file"
+          },
+          {
+            "name": "初始化",
+            "key": "tXeBrAYw",
+            "url": "/zh/ios/live/initialize.md",
+            "type": "file"
+          },
+          {
+            "name": "常用功能",
+            "key": "stmFlSMN",
+            "url": "/zh/ios/live/fucntions.md",
+            "type": "file"
+          },
+          {
+              "name":"进阶功能",
+              "key" : "9ydBQ8G7",
+              "url":"/zh/ios/live/advance.md",
+              "type":"file"
+          },
+          {
+            "name": "回调示例",
+            "key": "Dp3vfXts",
+            "url": "/zh/ios/live/callback.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "API文档",
+        "key": "pK0PECGR",
+        "menu": [
+          {
+            "name": "客户端",
+            "key": "P7J6gSFI",
+            "url": "/zh/ios/live/api.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端",
+            "key": "CpUL3fPt",
+            "url": "/zh/ios/live/api_server.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端签名说明",
+            "key": "kKjoJrYp",
+            "url": "/zh/ios/live/api_server_secret.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      }
+    ]
+  },
+  {
+    "name": "实时音视频",
+    "key": "10j2m5Cn",
+    "menu": [
+      {
+        "name": "概述",
+        "key": "q3V1ULDj",
+        "url": "/zh/ios/rtc/overview.md",
+        "type": "file"
+      },
+      {
+        "name": "下载SDK",
+        "key": "LKdNguJq",
+        "url": "/zh/ios/rtc/download_sdk.md",
+        "type": "file"
+      },
+      {
+        "name": "快速开始",
+        "key": "RdGIBCix",
+        "menu": [
+          {
+            "name":"架构设计",
+            "key":"uLPx9Aa7",
+            "url": "/zh/android/live/architecture.md",
+            "type": "file"
+          },
+          {
+            "name": "客户端集成",
+            "key": "UQEPa4gA",
+            "url": "/zh/ios/rtc/integration_sdk.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端集成",
+            "key": "4oMLVnCZ",
+            "url": "/zh/android/rtc/include_server.md",
+            "type": "file"
+          },
+          {
+            "name": "初始化",
+            "key": "qC1TAJfr",
+            "url": "/zh/ios/rtc/init_sdk.md",
+            "type": "file"
+          },
+          {
+            "name": "登录房间",
+            "key": "lD5BR0Hz",
+            "url": "/zh/ios/rtc/login_room.md",
+            "type": "file"
+          },
+          {
+            "name": "采集摄像头",
+            "key": "9wvnYoOi",
+            "url": "/zh/ios/rtc/start_capture.md",
+            "type": "file"
+          },
+          {
+            "name": "推流",
+            "key": "1wtdgRmz",
+            "url": "/zh/ios/rtc/publish_room.md",
+            "type": "file"
+          },
+          {
+            "name": "拉流",
+            "key": "7WAlvH8j",
+            "url": "/zh/ios/rtc/pull_room.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "视频管理",
+        "key": "sEQrRHoh",
+        "menu": [
+          {
+            "name": "视频常用功能",
+            "key": "ZWmxnK76",
+            "url": "/zh/ios/rtc/video_normal.md",
+            "type": "file"
+          },
+          {
+            "name": "跨房间连麦",
+            "key": "68cWKICu",
+            "url": "/zh/ios/rtc/video_pk.md",
+            "type": "file"
+          },
+          {
+            "name": "自定义视频采集",
+            "key": "gOLxvmYR",
+            "url": "/zh/ios/rtc/video_external_input.md",
+            "type": "file"
+          },
+          {
+            "name": "媒体补充增强信息",
+            "key": "mg2RLQ97",
+            "url": "/zh/ios/rtc/video_sei.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "音频管理",
+        "key": "t9WaFhB3",
+        "menu": [
+          {
+            "name": "音频常用功能",
+            "key": "ahlFzs0q",
+            "url": "/zh/ios/rtc/audio_normal.md",
+            "type": "file"
+          },
+          {
+            "name": "混音伴奏",
+            "key": "mgMROlBC",
+            "url": "/zh/ios/rtc/audio_mix.md",
+            "type": "file"
+          },
+          {
+            "name": "自定义音频采集",
+            "key": "VcDOv19U",
+            "url": "/zh/ios/rtc/audio_mix_external.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "场景方案",
+        "key": "IuHoi7AO",
+        "menu": [
+          {
+            "name": "主播观众",
+            "key": "kvorp7QL",
+            "url": "/zh/ios/rtc/scene_live.md",
+            "type": "file"
+          },
+          {
+            "name": "多人连麦",
+            "key": "NKpHDWTI",
+            "url": "/zh/ios/rtc/scene_group.md",
+            "type": "file"
+          },
+          {
+            "name": "视频通话",
+            "key": "3rVHRPn7",
+            "url": "/zh/ios/rtc/scene_videoCall.md",
+            "type": "file"
+          },
+          {
+            "name": "直播间聊天",
+            "key": "QeIBd8jF",
+            "url": "/zh/ios/rtc/scene_live_chatroom.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "API文档",
+        "key": "T6SHQVzi",
+        "menu": [
+          {
+            "name": "API文档",
+            "key": "6khfiHIX",
+            "url": "/zh/ios/rtc/api.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端",
+            "key":"s4h6VA21",
+            "url": "/zh/ios/rtc/api_server.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      
+      {
+        "name": "错误码文档",
+        "key": "WZsw8kGY",
+        "url": "/zh/ios/rtc/ecode.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "即时通讯",
+    "key": "BXeKL25c",
+    "menu": [
+      {
+        "name": "产品介绍",
+        "key": "iH8uIgb4",
+        "menu": [
+          {
+            "name": "概述",
+            "key": "s1EWeCFB",
+            "url": "/zh/ios/im/overview.md",
+            "type": "file"
+          },
+          {
+            "name": "特性",
+            "key": "HgyOfpE1",
+            "url": "/zh/ios/im/product_feature.md",
+            "type": "file"
+          },
+          {
+            "name": "优势",
+            "key": "kwZWynpJ",
+            "url": "/zh/ios/im/advantage.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "快速开始",
+        "key": "gKSeNhTk",
+        "menu": [
+          {
+            "name": "架构介绍",
+            "key": "sCd25bBW",
+            "url": "/zh/ios/im/integration_intro.md",
+            "type": "file"
+          },
+          {
+            "name": "客户端集成",
+            "key": "NtiCQwKr",
+            "url": "/zh/ios/im/integration_process.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端集成",
+            "key":"myb3GYiH",
+            "url": "/zh/ios/im/include_server.md",
+            "type": "file"
+          },
+          {
+            "name": "初始化",
+            "key": "DpgThmSb",
+            "url": "/zh/ios/im/integration_init.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "私信消息",
+        "key": "N7H5Lj0K",
+        "menu": [
+          {
+            "name": "概述",
+            "key": "Gb9V2eMF",
+            "url": "/zh/ios/im/private_msg_intro.md",
+            "type": "file"
+          },
+          {
+            "name": "集成",
+            "key": "PqYijOET",
+            "url": "/zh/ios/im/function_private_message.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "房间消息",
+        "key": "9B1sTWrG",
+        "menu": [
+          {
+            "name": "概述",
+            "key": "glNS6LFJ",
+            "url": "/zh/ios/im/chatroom_msg_intro.md",
+            "type": "file"
+          },
+          {
+            "name": "集成",
+            "key": "uI09bO1a",
+            "url": "/zh/ios/im/function_chatroom_message.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "下载SDK",
+        "key": "n2yBGW3V",
+        "url": "/zh/ios/im/download_demo.md",
+        "type": "file"
+      },
+      {
+        "name": "API文档",
+        "key": "4ZHilpqD",
+        "menu": [
+          {
+            "name": "客户端",
+            "key": "esSPZloQ",
+            "url": "/zh/ios/im/api.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端集成",
+            "key":"opBbewUy",
+            "url": "/zh/ios/im/api_server.md",
+            "type": "file"
+          },
+          {
+            "name": "服务端签名说明",
+            "key": "U4rBzJno",
+            "url": "/zh/ios/im/api_server_secret.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "错误码文档",
+        "key": "dNfqIW6P",
+        "url": "/zh/ios/im/ecode.md",
+        "type": "file"
+      },
+      {
+        "name": "常见问题",
+        "key": "lkJvYVSh",
+        "url": "/zh/ios/im/faq.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "在线教育",
+    "key": "kzhMLAye",
+    "menu": [
+      {
+        "name": "在线教育",
+        "key": "UO6NoMsq",
+        "menu": [
+          {
+            "name": "概述",
+            "key": "wOzEX8ba",
+            "url": "/zh/ios/edu/overview.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      }
+    ]
+  },
+  {
+          "name":"一对一视频通话",
+          "key":"KZnWhDI6",
+          "menu":[
+              {
+                  "name":"集成SDK",
+                  "key":"mVoIaZsF",
+                  "url":"/zh/ios/chat/overview.md",
+                  "type":"dir"
+              },
+              {
+                  "name":"使用SDK",
+                  "key":"ckENJanB",
+                  "url":"/zh/ios/chat/init.md",
+                  "type":"dir"
+              }
+          ]
+      }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Social Entertainment SDK",
+    "key": "JbS1ZVeP",
+    "menu": [
+      {
+        "name": "Overview",
+        "key": "WqDlme0L",
+        "url": "/en/android/live/overview.md",
+        "type": "file"
+      },
+      {
+        "name": "Download SDK",
+        "key": "8ei0wr32",
+        "url": "/en/android/live/downloadsdk.md",
+        "type": "file"
+      },
+      {
+        "name": "Quick start",
+        "key": "gwXzFvln",
+        "menu": [
+          {
+            "name":"Architecture design",
+            "key":"QoZ4JF0K",
+            "url": "/en/android/live/architecture.md",
+            "type": "file"
+          },
+          {
+            "name": "User integration",
+            "key": "hYrKLGDi",
+            "url": "/en/android/live/include.md",
+            "type": "file"
+          },
+          {
+            "name": "Server integration",
+            "key":"TvSUN6DQ",
+            "url": "/en/android/live/include_server.md",
+            "type": "file"
+          },
+          {
+            "name": "Initialization",
+            "key": "tXeBrAYw",
+            "url": "/en/android/live/initialize.md",
+            "type": "file"
+          },
+          {
+            "name": "Common Functions",
+            "key": "stmFlSMN",
+            "url": "/en/android/live/fucntions.md",
+            "type": "file"
+          },
+          {
+            "name": "Advanced features",
+            "key": "9ydBQ8G7",
+            "url": "/en/android/live/advance.md",
+            "type": "file"
+          },
+          {
+            "name": "Callback example",
+            "key": "Dp3vfXts",
+            "url": "/en/android/live/callback.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "API documentation",
+        "key": "pK0PECGR",
+        "menu": [
+          {
+            "name": "User",
+            "key": "P7J6gSFI",
+            "url": "/en/android/live/api.md",
+            "type": "file"
+          },
+          {
+            "name": "Server",
+            "key": "CpUL3fPt",
+            "url": "/en/android/live/api_server.md",
+            "type": "file"
+          },
+          {
+            "name": "Server signature description",
+            "key": "kKjoJrYp",
+            "url": "/en/android/live/api_server_secret.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      }
+    ]
+  },
+  {
+    "name": "Real-time audio and video",
+    "key": "10j2m5Cn",
+    "menu": [
+      {
+        "name": "Description",
+        "key": "q3V1ULDj",
+        "url": "/en/android/rtc/overview.md",
+        "type": "file"
+      },
+      {
+        "name": "Download The SDK",
+        "key": "LKdNguJq",
+        "url": "/en/android/rtc/download_sdk.md",
+        "type": "file"
+      },
+      {
+        "name": "Quick start",
+        "key": "RdGIBCix",
+        "menu": [
+          {
+            "name": "SDK Integration",
+            "key": "UQEPa4gA",
+            "url": "/en/android/rtc/integration_sdk.md",
+            "type": "file"
+          },
+          {
+            "name": "Initialization",
+            "key": "qC1TAJfr",
+            "url": "/en/android/rtc/init_sdk.md",
+            "type": "file"
+          },
+          {
+            "name": "Login room",
+            "key": "lD5BR0Hz",
+            "url": "/en/android/rtc/login_room.md",
+            "type": "file"
+          },
+          {
+            "name": "Capture camera",
+            "key": "9wvnYoOi",
+            "url": "/en/android/rtc/start_capture.md",
+            "type": "file"
+          },
+          {
+            "name": "Publish stream",
+            "key": "1wtdgRmz",
+            "url": "/en/android/rtc/publish_room.md",
+            "type": "file"
+          },
+          {
+            "name": "Pull stream",
+            "key": "7WAlvH8j",
+            "url": "/en/android/rtc/pull_room.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "Video management",
+        "key": "sEQrRHoh",
+        "menu": [
+          {
+            "name": "Video common functions",
+            "key": "ZWmxnK76",
+            "url": "/en/android/rtc/video_normal.md",
+            "type": "file"
+          },
+          {
+            "name": "Inter-room connection",
+            "key": "68cWKICu",
+            "url": "/en/android/rtc/video_pk.md",
+            "type": "file"
+          },
+          {
+            "name": "Custom video capture",
+            "key": "gOLxvmYR",
+            "url": "/en/android/rtc/video_external_input.md",
+            "type": "file"
+          },
+          {
+            "name": "Media supplement and enhance information",
+            "key": "mg2RLQ97",
+            "url": "/en/android/rtc/video_sei.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "Audio management",
+        "key": "t9WaFhB3",
+        "menu": [
+          {
+            "name": "Audio common functions",
+            "key": "ahlFzs0q",
+            "url": "/en/android/rtc/audio_normal.md",
+            "type": "file"
+          },
+          {
+            "name": "Mixed accompaniment",
+            "key": "mgMROlBC",
+            "url": "/en/android/rtc/audio_mix.md",
+            "type": "file"
+          },
+          {
+            "name": "Custom audio capture",
+            "key": "VcDOv19U",
+            "url": "/en/android/rtc/audio_mix_external.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "Scenario plan",
+        "key": "IuHoi7AO",
+        "menu": [
+          {
+            "name": "Anchor audience",
+            "key": "kvorp7QL",
+            "url": "/en/android/rtc/scene_live.md",
+            "type": "file"
+          },
+          {
+            "name": "Multiplayer beam",
+            "key": "NKpHDWTI",
+            "url": "/en/android/rtc/scene_group.md",
+            "type": "file"
+          },
+          {
+            "name": "Video call",
+            "key": "3rVHRPn7",
+            "url": "/en/android/rtc/scene_videoCall.md",
+            "type": "file"
+          },
+          {
+            "name": "Live room chat",
+            "key": "UO2aLdNH",
+            "url": "/en/android/rtc/scene_live_chatroom.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "API documentation",
+        "key": "6khfiHIX",
+        "url": "/en/android/rtc/api.md",
+        "type": "file"
+      },
+      {
+        "name": "Error code document",
+        "key": "WZsw8kGY",
+        "url": "/en/android/rtc/ecode.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "Instant messaging",
+    "key": "BXeKL25c",
+    "menu": [
+      {
+        "name": "Product description",
+        "key": "iH8uIgb4",
+        "menu": [
+          {
+            "name": "Overview",
+            "key": "s1EWeCFB",
+            "url": "/en/android/im/overview.md",
+            "type": "file"
+          },
+          {
+            "name": "Feature",
+            "key": "HgyOfpE1",
+            "url": "/en/android/im/product_feature.md",
+            "type": "file"
+          },
+          {
+            "name": "Advantage",
+            "key": "kwZWynpJ",
+            "url": "/en/android/im/advantage.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "Quick start",
+        "key": "gKSeNhTk",
+        "menu": [
+          {
+            "name": "Architecture introduction",
+            "key": "sCd25bBW",
+            "url": "/en/android/im/integration_intro.md",
+            "type": "file"
+          },
+          {
+            "name": "Integration",
+            "key": "NtiCQwKr",
+            "url": "/en/android/im/integration_process.md",
+            "type": "file"
+          },
+          {
+            "name": "Initialization",
+            "key": "DpgThmSb",
+            "url": "/en/android/im/integration_init.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "Message",
+        "key": "N7H5Lj0K",
+        "menu": [
+          {
+            "name": "Overview",
+            "key": "Gb9V2eMF",
+            "url": "/en/android/im/private_msg_intro.md",
+            "type": "file"
+          },
+          {
+            "name": "Integration",
+            "key": "PqYijOET",
+            "url": "/en/android/im/function_private_message.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "Room",
+        "key": "9B1sTWrG",
+        "menu": [
+          {
+            "name": "Overview",
+            "key": "9ydBQ8G7",
+            "url": "/en/android/im/chatroom_msg_intro.md",
+            "type": "file"
+          },
+          {
+            "name": "SDK Integration",
+            "key": "uI09bO1a",
+            "url": "/en/android/im/function_chatroom_message.md",
+            "type": "file"
+          }
+        ],
+        "type": "dir"
+      },
+      {
+        "name": "Download SDK",
+        "key": "n2yBGW3V",
+        "url": "/en/android/im/download_demo.md",
+        "type": "file"
+      },
+      {
+        "name": "API documentation",
+        "key": "esSPZloQ",
+        "url": "/en/android/im/api.md",
+        "type": "file"
+      },
+      {
+        "name": "Error code document",
+        "key": "dNfqIW6P",
+        "url": "/en/android/im/ecode.md",
+        "type": "file"
+      },
+      {
+        "name": "Q&A",
+        "key": "lkJvYVSh",
+        "url": "/en/android/im/faq.md",
+        "type": "file"
+      }
+    ]
+  }
+]
+

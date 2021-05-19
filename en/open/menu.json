@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Developer platform",
+    "key": "lqVFtZdK",
+    "menu": [
+      {
+        "name": "The Manual",
+        "key": "R5tULcvV",
+        "url": "/zh/open/quick_start.md",
+        "type": "file"
+      }
+    ]
+  }
+]
